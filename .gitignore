@@ -1,0 +1,4 @@
+dist
+src/converted/*
+node_moduels
+.DS_Store
